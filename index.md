@@ -1,5 +1,5 @@
 # portfolio
 
 **contact information**
--Email
--Phone Number
+-Email-
+-Phone Number-
