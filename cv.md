@@ -31,14 +31,14 @@ Location
  
 For older jobs you should keep the details slightly shorter, remembering to include your dates of employment and key skills obtained/applied to achieve your goals.
  
-Responsibilities:
+### Responsibilities:
  
 ·         Try to avoid cliché phrases that don’t differentiate you as a candidate
 ·         Always tailor your CV for each job application to match the requirements
 ·         Try not to waffle if you feel like you don’t have much to write in this area. Succinct to the point CVs will be preferred as they are quick to read and won’t be generic
  
  
-EDUCATION
+### EDUCATION:
 If you are looking for your first job and do not have much or any work experience at this point – do not fret. Expand on your education responsibilities and apply them to real life scenarios so an employer has an understanding of what you have achieved and the means used to get these achievements.
             	
 BA (Hons) 2:1, Subject Name - September 2008 - June 2012.
