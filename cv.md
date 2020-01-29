@@ -1,16 +1,14 @@
-cv
+# cv
 - Fraser Jones
-99 Example Street, Example Town, EX4 3PL
- 
- 
-PERSONAL STATEMENT
+  
+## PERSONAL STATEMENT
 I am
 Here you should take a few lines, not a few paragraphs (save that for the cover letter) to quickly outline your interest in the role and why you’d be a good fit. Do not list out your skills here as they will be more relevant to employers searching for your CV within a job role listed under “WORK EXPERIENCE”.
  
 The aim is to highlight your professional attributes and goals, summarising why someone should consider your application. Find out how to write the perfect personal statement.
  
  
-WORK EXPERIENCE
+### WORK EXPERIENCE
  
 Job Title – Dates of Employment (date format should be Month YYYY e.g. November 2011 – May 2012)
 Company Name - www.examplelink.co.uk
@@ -18,7 +16,7 @@ Location
  
 It is very important to include your dates of employment regardless of whether you are still in the job you have listed. This is because Monster’s CV Search will use these dates as well as the skills obtained/utilised in this time period to determine if you’re what an employer is looking for.
 
-Responsibilities:
+### Responsibilities:
  
 ·         Provide key achievements within a role and try to highlight the skills used to obtain your goal
 ·         Try to avoid soft terms like “high energy” and aim for skills used within the role – such as “programming using C++”
@@ -50,21 +48,18 @@ University of Example-town
 ·         If any skills were learnt that relate to the job you’re applying for, it would be a good idea to mention those to further align yourself with their criteria
  
 A-Levels, June 2006 – June 2008
-College Name,
-Location
- 
-Business Studies: A
-Maths: A            	            	
-Chemistry: B
-GCSE’s, June 2003 – June 2008
-College Name,
-Location
- 
-English: B
-Maths: A
-Physics: A
-Chemistry: B
-Biology: B
+Uckfeild Collage
+
+
+| Qaulifications     | Grade         |
+| ------------------ |:-------------:|
+| Maths:             | A             |
+| Geography:         | A             |
+| English liturature:| B             |
+| English language:  | C             |
+| Physics:           | B             |
+| Chemisty:          | C             |
+| Biology:           | B             |
  
  
 PERSONAL INTERESTS
