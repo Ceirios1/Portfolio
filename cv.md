@@ -10,7 +10,7 @@ The aim is to highlight your professional attributes and goals, summarising why 
  
 ### WORK EXPERIENCE
  
-Job Title – Dates of Employment (date format should be Month YYYY e.g. November 2011 – May 2012)
+- Job Title – Dates of Employment (date format should be Month YYYY e.g. November 2011 – May 2012)
 Company Name - www.examplelink.co.uk
 Location
  
