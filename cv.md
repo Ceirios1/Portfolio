@@ -30,6 +30,7 @@ It is very important to include your dates of employment regardless of whether y
  
  
 Job Title – Dates of Employment
+
 Company Name - www.examplelink.co.uk
 Location
  
