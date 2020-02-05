@@ -10,16 +10,14 @@ The aim is to highlight your professional attributes and goals, summarising why 
  
 ### WORK EXPERIENCE
  
-- Job Title – Dates of Employment (date format should be Month YYYY e.g. November 2011 – May 2012)
-Company Name - www.examplelink.co.uk
-Location
 
-**Event caterer**:- (Aprill 2018 - November 2018)
+
+**Event caterer:-** (Aprill 2018 - November 2018)
 
  AMUSE PRIVATE CATERERS:- http://www.amuseprivatecaterers.co.uk/menus.html
 
+**Location:-**  Uckfield TN22 3AE
 
-It is very important to include your dates of employment regardless of whether you are still in the job you have listed. This is because Monster’s CV Search will use these dates as well as the skills obtained/utilised in this time period to determine if you’re what an employer is looking for.
 
 ### Responsibilities:
  
