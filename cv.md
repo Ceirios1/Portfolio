@@ -2,8 +2,8 @@
 - Fraser Jones
   
 ## PERSONAL STATEMENT
-Computers themselves, and software yet to be developed, will revolutionize the way we learn.” – Steve Jobs. 
-This one quote, is something that makes me want to be educated, and educate others through the uses of technology. If it wasn’t for the era I grew up in, I wouldn’t be as grateful for today’s technology as others are today. From the earliest moments off my life that I can remember, I was always amazed by computers. I vividly remember the joy I got from using my Dad’s PC for he first time at the age of 3 years old. Ever since that day I have been hooked. From Nintendo, Playstation, Xbox to PC’s, I have been gaming and enjoying the brilliance of today’s technology all of my life. An education in Computer Science was something I dreamt of from a young age. To be able to study a course that not only interested me, but I genuinely enjoyed was all I wanted. I am currently studying Computing and IT in Gower College Swansea. Last year I complete my A Leel in Graphics, I feel that this course has helped improve both my creativity and design thus complimenting the visionary skills needed when studying my current A level subjects. Outside of my graphics lectures I enjoy creating my own graphical designs as a hobby including designing logos for teams which compete inside of eSports. Unfortunately, my previous school did not quite have the up to date technical facilities to really allow me to explore computing as far as I would have liked. However, during my time at college I have no had access to such equipment and I am thoroughly enjoying the opportunity to really expand my horizons.
+"Computers themselves, and software yet to be developed, will revolutionize the way we learn." – Steve Jobs. 
+This one quote, is something that makes me want to be educated, and educate others through the uses of technology. If it wasn’t for the era I grew up in, I wouldn’t be as grateful for today’s technology as others are today. From the earliest moments off my life that I can remember, I was always amazed by computers. I vividly remember the joy I got from using my Dad’s PC for he first time at the age of 3 years old. Ever since that day I have been hooked. From Nintendo, Playstation, Xbox to PC’s, I have been gaming and enjoying the brilliance of today’s technology all of my life. An education in Computer Science was something I dreamt of from a young age. To be able to study a course that not only interested me, but I genuinely enjoyed was all I wanted. I am currently studying Computing and Game Devlopment in Lewes College.
  
 The aim is to highlight your professional attributes and goals, summarising why someone should consider your application. Find out how to write the perfect personal statement.
  
@@ -13,7 +13,11 @@ The aim is to highlight your professional attributes and goals, summarising why 
 - Job Title – Dates of Employment (date format should be Month YYYY e.g. November 2011 – May 2012)
 Company Name - www.examplelink.co.uk
 Location
- 
+
+**Event caterer**:- (Aprill 2018 - November 2018)
+ AMUSE PRIVATE CATERERS:- http://www.amuseprivatecaterers.co.uk/menus.html
+
+
 It is very important to include your dates of employment regardless of whether you are still in the job you have listed. This is because Monster’s CV Search will use these dates as well as the skills obtained/utilised in this time period to determine if you’re what an employer is looking for.
 
 ### Responsibilities:
