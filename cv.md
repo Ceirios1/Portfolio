@@ -12,12 +12,14 @@ The aim is to highlight your professional attributes and goals, summarising why 
  
 
 
-**Event caterer:-** (Aprill 2018 - November 2018)
+**Event caterer:-** (Aprill 2016 - November 2018)
 
+ East Sussex National:- https://www.eastsussexnational.co.uk/
  AMUSE PRIVATE CATERERS:- http://www.amuseprivatecaterers.co.uk/menus.html
 
-**Location:-**  Uckfield TN22 3AE
-
+**Location:-**  
+ AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE
+ East Sussex National:-Uckfield TN22 5ES
 
 ### Responsibilities:
  
@@ -26,6 +28,7 @@ The aim is to highlight your professional attributes and goals, summarising why 
 ·         Provide enough information to entice your potential employers to call you
 ·         Always keep examples relevant to the role you are applying for
 ·         Find out more about how to identify your achievements.
+.         
  
  
 Job Title – Dates of Employment
