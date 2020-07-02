@@ -23,18 +23,14 @@ The aim is to highlight your professional attributes and goals, summarising why 
 
 ### Responsibilities:
  
-·         Provide key achievements within a role and try to highlight the skills used to obtain your goal
-·         Try to avoid soft terms like “high energy” and aim for skills used within the role – such as “programming using C++”
-·         Provide enough information to entice your potential employers to call you
-·         Always keep examples relevant to the role you are applying for
-·         Find out more about how to identify your achievements.
+·         Work efectivly in a team to ensure events run smoothly.  <br/>
+·         Cater to the gests to the best of my abillity.  <br/>
+·         Work quickly and quietly as to not disteb the guests. <br/>
+·         Wait on tables and clear up after them. <br/>
+.         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. <br/>
+·         Be able to solve imediate problems quickly and creatively <br/>
 .         
  
- 
-Job Title – Dates of Employment
-
-Company Name - www.examplelink.co.uk
-Location
  
 For older jobs you should keep the details slightly shorter, remembering to include your dates of employment and key skills obtained/applied to achieve your goals.
  
@@ -46,7 +42,7 @@ For older jobs you should keep the details slightly shorter, remembering to incl
  
  
 ### EDUCATION:
-If you are looking for your first job and do not have much or any work experience at this point – do not fret. Expand on your education responsibilities and apply them to real life scenarios so an employer has an understanding of what you have achieved and the means used to get these achievements.
+If you are looking for your first job and do not have much or any work experience at this point – do not fret. Expand on your education responsibilities and apply them to real life scenarios so an employer has an understanding of what you have achieved and the means used to get these achievements.<br/>
             	
 BA (Hons) 2:1, Subject Name - September 2008 - June 2012.
 University of Example-town
@@ -54,7 +50,7 @@ University of Example-town
 ·         You can help sell yourself with a few bullet points on what were some of your goals and achievements during your time at university
 ·         If any skills were learnt that relate to the job you’re applying for, it would be a good idea to mention those to further align yourself with their criteria
  
-A-Levels, June 2006 – June 2008
+A-Levels, June 2006 – June 2008 <br/>
 Uckfeild Collage
 
 
