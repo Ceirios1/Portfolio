@@ -2,7 +2,7 @@
 - Fraser Jones
   
 ## PERSONAL STATEMENT
-"Computers themselves, and software yet to be developed, will revolutionize the way we learn." – Steve Jobs. 
+"Computers themselves, and software yet to be developed, will revolutionize the way we learn." – Steve Jobs. <br/> 
 This one quote, is something that makes me want to be educated, and educate others through the uses of technology. If it wasn’t for the era I grew up in, I wouldn’t be as grateful for today’s technology as others are today. From the earliest moments off my life that I can remember, I was always amazed by computers. I vividly remember the joy I got from using my Dad’s PC for he first time at the age of 3 years old. Ever since that day I have been hooked. From Nintendo, Playstation, Xbox to PC’s, I have been gaming and enjoying the brilliance of today’s technology all of my life. An education in Computer Science was something I dreamt of from a young age. To be able to study a course that not only interested me, but I genuinely enjoyed was all I wanted. I am currently studying Computing and Game Devlopment in Lewes College.
  
 The aim is to highlight your professional attributes and goals, summarising why someone should consider your application. Find out how to write the perfect personal statement.
@@ -14,11 +14,11 @@ The aim is to highlight your professional attributes and goals, summarising why 
 
 **Event caterer:-** (Aprill 2016 - November 2018)
 
- East Sussex National:- https://www.eastsussexnational.co.uk/
+ East Sussex National:- https://www.eastsussexnational.co.uk/  <br/>
  AMUSE PRIVATE CATERERS:- http://www.amuseprivatecaterers.co.uk/menus.html
 
 **Location:-**  
- AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE
+ AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE <br/>
  East Sussex National:-Uckfield TN22 5ES
 
 ### Responsibilities:
