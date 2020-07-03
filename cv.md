@@ -28,25 +28,23 @@ The aim is to highlight your professional attributes and goals, summarising why 
 
 ### Responsibilities:
  
-·         Work efectivly in a team to ensure events run smoothly.  <br/>
-·         Cater to the gests to the best of my abillity.  <br/>
-·         Work quickly and quietly as to not disterb the guests. <br/>
-·         Wait on tables and clear up after them. <br/>
-.         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. <br/>
-·         Be able to solve imediate problems quickly and creatively <br/>
-.         
+-         Work efectivly in a team to ensure events run smoothly.  <br/>
+-         Cater to the gests to the best of my abillity.  <br/>
+-         Work quickly and quietly as to not disterb the guests. <br/>
+-         Wait on tables and clear up after them. <br/>
+-         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. <br/>
+-         Be able to solve imediate problems quickly and creatively <br/>
+         
  
  
 For older jobs you should keep the details slightly shorter, remembering to include your dates of employment and key skills obtained/applied to achieve your goals.
   
  
 ### EDUCATION:
-
-·         You can help sell yourself with a few bullet points on what were some of your goals and achievements during your time at university
-·         If any skills were learnt that relate to the job you’re applying for, it would be a good idea to mention those to further align yourself with their criteria
  
 Current: East Sussex College Lewes, A-Levels, 2018-2020 <br/>
 Softwere and Game design <br/>
+
 Uckfeild Sixth Form, A-Levels, 2017-2018  <br/>
 Maths <br/>
 Biology <br/>
@@ -64,8 +62,7 @@ Geography <br/>
  
  
 ### PERSONAL INTERESTS:
-Feel free to list these out in bullets or in a table. If you lack experience for a role that you are deeply passionate about, you may want to mention how you use your spare time to pursue this passion. Be it in reading around the subject matter or expanding your technical skills. Find out more about what to include in your personal interests section.
- 
+- Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips and a ski season, I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
  
 ### REFERENCES:
  
