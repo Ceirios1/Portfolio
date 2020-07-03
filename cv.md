@@ -28,12 +28,12 @@ The aim is to highlight your professional attributes and goals, summarising why 
 
 ### Responsibilities:
  
--         Work efectivly in a team to ensure events run smoothly.  <br/>
--         Cater to the gests to the best of my abillity.  <br/>
--         Work quickly and quietly as to not disterb the guests. <br/>
--         Wait on tables and clear up after them. <br/>
--         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. <br/>
--         Be able to solve imediate problems quickly and creatively <br/>
+-         Work efectivly in a team to ensure events run smoothly.  
+-         Cater to the gests to the best of my abillity.  
+-         Work quickly and quietly as to not disterb the guests. 
+-         Wait on tables and clear up after them. 
+-         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. 
+-         Be able to solve imediate problems quickly and creatively 
          
  
  
@@ -63,6 +63,7 @@ Geography <br/>
  
 ### PERSONAL INTERESTS:
 - Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips and a ski season, I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
+- Dungeons & Dragons - 
  
 ### REFERENCES:
  
