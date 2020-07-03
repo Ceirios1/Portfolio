@@ -19,13 +19,18 @@ The aim is to highlight your professional attributes and goals, summarising why 
 
 **Location:-**  
  AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE <br/>
+ This job involves working in a team role meaning communication skills are crucial in order to work as an effective unit and deliver the best service to the clients. I believe this has really benefited by teamwork skills and pushed them to new heights. My ability to work under pressure has improved as I often deal with large crowds of guests demanding equal and immediate attention. I subsequently must perform tasks fast whilst under scrutiny to ensure everyone is satisfied and happy. This role has also taught me endurance as shifts can be long but professional customer relations must be maintained throughout. <br/>
+
  East Sussex National:-Uckfield TN22 5ES
+  Working at a large hotel complex has enabled me to fully immerse myself in a strong team ethos. Becoming a part of a workforce made up of lots of different nationalities and subdivisions that must all work together to ensure the best results for the customers, whilst still enabling me to develop and build upon individual problem-solving skills that are required when dealing with constantly changing scenarios has been very rewarding.  <br/>
+
+
 
 ### Responsibilities:
  
 ·         Work efectivly in a team to ensure events run smoothly.  <br/>
 ·         Cater to the gests to the best of my abillity.  <br/>
-·         Work quickly and quietly as to not disteb the guests. <br/>
+·         Work quickly and quietly as to not disterb the guests. <br/>
 ·         Wait on tables and clear up after them. <br/>
 .         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. <br/>
 ·         Be able to solve imediate problems quickly and creatively <br/>
@@ -33,26 +38,19 @@ The aim is to highlight your professional attributes and goals, summarising why 
  
  
 For older jobs you should keep the details slightly shorter, remembering to include your dates of employment and key skills obtained/applied to achieve your goals.
- 
-### Responsibilities:
- 
-·         Try to avoid cliché phrases that don’t differentiate you as a candidate
-·         Always tailor your CV for each job application to match the requirements
-·         Try not to waffle if you feel like you don’t have much to write in this area. Succinct to the point CVs will be preferred as they are quick to read and won’t be generic
- 
+  
  
 ### EDUCATION:
-If you are looking for your first job and do not have much or any work experience at this point – do not fret. Expand on your education responsibilities and apply them to real life scenarios so an employer has an understanding of what you have achieved and the means used to get these achievements.<br/>
-            	
-BA (Hons) 2:1, Subject Name - September 2008 - June 2012.
-University of Example-town
- 
+
 ·         You can help sell yourself with a few bullet points on what were some of your goals and achievements during your time at university
 ·         If any skills were learnt that relate to the job you’re applying for, it would be a good idea to mention those to further align yourself with their criteria
  
-A-Levels, June 2006 – June 2008 <br/>
-Uckfeild Collage
-
+Current: East Sussex College Lewes, A-Levels, 2018-2020 <br/>
+Softwere and Game design <br/>
+Uckfeild Sixth Form, A-Levels, 2017-2018  <br/>
+Maths <br/>
+Biology <br/>
+Geography <br/>
 
 | Qaulifications     | Grade         |
 | ------------------ |:-------------:|
