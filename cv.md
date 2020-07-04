@@ -62,7 +62,7 @@ Geography <br/>
  
  
 ### PERSONAL INTERESTS:
-- Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips and a ski season, I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
+- Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips , I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
 - Dungeons & Dragons - 
  
 ### REFERENCES:
