@@ -18,9 +18,11 @@ This one quote, is something that makes me want to be educated, and educate othe
  AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE <br/>
  This job involves working in a team role meaning communication skills are crucial in order to work as an effective unit and deliver the best service to the clients. I believe this has really benefited by teamwork skills and pushed them to new heights. My ability to work under pressure has improved as I often deal with large crowds of guests demanding equal and immediate attention. I subsequently must perform tasks fast whilst under scrutiny to ensure everyone is satisfied and happy. This role has also taught me endurance as shifts can be long but professional customer relations must be maintained throughout. <br/>
 
- East Sussex National:-Uckfield TN22 5ES
+ East Sussex National:-Uckfield TN22 5ES <br/>
   Working at a large hotel complex has enabled me to fully immerse myself in a strong team ethos. Becoming a part of a workforce made up of lots of different nationalities and subdivisions that must all work together to ensure the best results for the customers, whilst still enabling me to develop and build upon individual problem-solving skills that are required when dealing with constantly changing scenarios has been very rewarding.  <br/>
 
+Newick News and Post Office:- Lewes BN8 4NY <br/>
+ Working as a paperboy means being committed and waking up early to do my round. Perseverance is a crucial skill because come rain, sun or snow I have to make the round or be docked pay. <br/>
 
 
 ### Responsibilities:
