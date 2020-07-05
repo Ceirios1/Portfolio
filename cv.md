@@ -2,8 +2,8 @@
 - Fraser Jones
   
 ## PERSONAL STATEMENT
-"Computers themselves, and software yet to be developed, will revolutionize the way we learn." – Steve Jobs. <br/> 
-This one quote, is something that makes me want to be educated, and educate others through the uses of technology. If it wasn’t for the era I grew up in, I wouldn’t be as grateful for today’s technology as others are today. From the earliest moments off my life that I can remember, I was always amazed by computers. I vividly remember the joy I got from using my Dad’s PC for he first time at the age of 3 years old. Ever since that day I have been hooked. From Nintendo, Playstation, Xbox to PC’s, I have been gaming and enjoying the brilliance of today’s technology all of my life. An education in Computer Science was something I dreamt of from a young age. To be able to study a course that not only interested me, but I genuinely enjoyed was all I wanted. I am currently studying Computing and Game Devlopment in Lewes College.
+"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." —Thomas A. Edison <br/>
+A highly motivated, confident and dedicated individual who learns fast and think cratively. I am currently in my seacond year at Lewes College studing Softwere and Game desing. Having gained wide amounts of experience in the catering industry I have been able to equip myself with strong communication and interpersonal skills whilst using a proactive initiative to deliver a quality experience for the client in a constantly changing work environment. I am now looking to put these skills to use for a ski season.
  
 ### WORK EXPERIENCE
  
