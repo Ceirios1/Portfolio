@@ -5,9 +5,6 @@
 "Computers themselves, and software yet to be developed, will revolutionize the way we learn." – Steve Jobs. <br/> 
 This one quote, is something that makes me want to be educated, and educate others through the uses of technology. If it wasn’t for the era I grew up in, I wouldn’t be as grateful for today’s technology as others are today. From the earliest moments off my life that I can remember, I was always amazed by computers. I vividly remember the joy I got from using my Dad’s PC for he first time at the age of 3 years old. Ever since that day I have been hooked. From Nintendo, Playstation, Xbox to PC’s, I have been gaming and enjoying the brilliance of today’s technology all of my life. An education in Computer Science was something I dreamt of from a young age. To be able to study a course that not only interested me, but I genuinely enjoyed was all I wanted. I am currently studying Computing and Game Devlopment in Lewes College.
  
-The aim is to highlight your professional attributes and goals, summarising why someone should consider your application. Find out how to write the perfect personal statement.
- 
- 
 ### WORK EXPERIENCE
  
 
@@ -35,9 +32,6 @@ The aim is to highlight your professional attributes and goals, summarising why 
 -         Be able to follow instuction and fill any role needed like kitchen aid or washing dishes. 
 -         Be able to solve imediate problems quickly and creatively 
          
- 
- 
-For older jobs you should keep the details slightly shorter, remembering to include your dates of employment and key skills obtained/applied to achieve your goals.
   
  
 ### EDUCATION:
@@ -62,10 +56,8 @@ Geography <br/>
  
  
 ### PERSONAL INTERESTS:
-- Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips , I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
-- Dungeons & Dragons - 
+- Skiing - Skiing has become one of my favourite past times and due to relatively frequent trips, I have been able to increase my skiing to a level that allows me to enjoy everything the mountain has to offer.
+- Dungeons & Dragons - I started playing Dungeons & Dragons two years ago and have enjoyed all of it and am now a regular member of a club in Brighton. The game encourages teamwork and creative problem-solving. It has also helped with my public speaking as a large part of the game is just talking eg. arguing for or against a course of action.
+- PC Gaming - Gaming is one of my favourite hobbies as there is such a broad range of game genres which test me in different ways. Some are about strategical thinking and planning for the future while others are about honing skills like reactions and quick thinking. Lastly, some are about relaxing and using my creativity.
  
 ### REFERENCES:
- 
-References are available on request. Find out more about deciding your references.
-
