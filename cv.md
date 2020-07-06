@@ -9,10 +9,10 @@ A highly motivated, confident and dedicated individual who learns fast and think
  
 
 
-**Event caterer:-** (Aprill 2016 - November 2018)
+**Event caterer:** 
 
- East Sussex National:- https://www.eastsussexnational.co.uk/  <br/>
- AMUSE PRIVATE CATERERS:- http://www.amuseprivatecaterers.co.uk/menus.html
+ East Sussex National (Aprill 2016 - November 2018):- https://www.eastsussexnational.co.uk/  <br/>
+ AMUSE PRIVATE CATERERS (Aprill 2018 - December 2019):- http://www.amuseprivatecaterers.co.uk/menus.html <br/>
 
 **Location:-**  
  AMUSE PRIVATE CATERERS:- Uckfield TN22 3AE <br/>
