@@ -3,7 +3,7 @@ Name:- Fraser Jones
   
 ## PERSONAL STATEMENT
 "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." —Thomas A. Edison <br/>
-A motivated, confident and dedicated individual who learns fast and has a methodical mindset. I am currently in my second year at Lewes College studying Software and Game design. Having gained experience in the catering industry I have been able to equip myself with strong communication and interpersonal skills whilst using a proactive initiative to deliver a quality experience for the client in a constantly changing work environment. I am now looking to put these skills to use for a ski season.
+A motivated, confident and dedicated individual who learns fast and has a methodical mindset. I am currently in my second year at Lewes College studying Software and Game design. Having gained experience in the catering industry I have been able to equip myself with strong communication and interpersonal skills whilst using my initiative to deliver a quality experience for the client in a constantly changing work environment. I am now looking to put these skills to use for a ski season.
  
 ### WORK EXPERIENCE
  
