@@ -7,7 +7,7 @@ A motivated, confident and dedicated individual who learns fast and has a method
  
 ### WORK EXPERIENCE
  
- Newick News and Post Office (September 2014 - Current) 
+ Newick News and Post Office (September 2014 - Current)  <br/>
  East Sussex National Resort (April 2016 - November 2018):- https://www.eastsussexnational.co.uk/  <br/>
  Amuse Private Caterers (April 2018 - December 2019):- http://www.amuseprivatecaterers.co.uk/menus.html <br/>
 
